@@ -1,0 +1,12 @@
+{
+  "name": "水光镜 Pro Max",
+  "short_name": "水光镜",
+  "description": "手机后置 9:16 水下水光互动 ASMR 拍摄工具。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08292c",
+  "theme_color": "#08292c",
+  "orientation": "portrait",
+  "categories": ["photo", "video", "entertainment"]
+}
